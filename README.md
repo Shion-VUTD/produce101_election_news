@@ -1,0 +1,2 @@
+# produce101_election_news
+日プ女子のファイナル投票結果速報
